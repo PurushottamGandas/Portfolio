@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.50939448.css",
+    "main.js": "/Portfolio/static/js/main.83c8ddc5.js",
+    "static/js/787.c84f1929.chunk.js": "/Portfolio/static/js/787.c84f1929.chunk.js",
+    "static/media/profile-image.jpg": "/Portfolio/static/media/profile-image.8c186b4f9e7618d8657d.jpg",
+    "static/media/movie-heist-project.png": "/Portfolio/static/media/movie-heist-project.fb31a9df88750b1375c2.png",
+    "static/media/icomoon.svg?srf3rx": "/Portfolio/static/media/icomoon.d8bb08cd812ea9df189b.svg",
+    "static/media/find-my-pet-project.png": "/Portfolio/static/media/find-my-pet-project.6e4f3695ba256fca043e.png",
+    "static/media/clothing-store-project.png": "/Portfolio/static/media/clothing-store-project.487b9e655c0b12d19066.png",
+    "static/media/contact-me.gif": "/Portfolio/static/media/contact-me.da3a87dcaab8bb146e78.gif",
+    "static/media/icomoon.eot?srf3rx": "/Portfolio/static/media/icomoon.f53fba8098384bb57298.eot",
+    "static/media/icomoon.woff?srf3rx": "/Portfolio/static/media/icomoon.a364de96ca8459f15b68.woff",
+    "static/media/icomoon.ttf?srf3rx": "/Portfolio/static/media/icomoon.ba5dacb825a6f0dc1276.ttf",
+    "static/media/live-chat-project.png": "/Portfolio/static/media/live-chat-project.aca330ccc1065abfcce8.png",
+    "static/media/logo-black-background.png": "/Portfolio/static/media/logo-black-background.353101401bc64bdc8513.png",
+    "index.html": "/Portfolio/index.html",
+    "main.50939448.css.map": "/Portfolio/static/css/main.50939448.css.map",
+    "main.83c8ddc5.js.map": "/Portfolio/static/js/main.83c8ddc5.js.map",
+    "787.c84f1929.chunk.js.map": "/Portfolio/static/js/787.c84f1929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50939448.css",
+    "static/js/main.83c8ddc5.js"
+  ]
+}
