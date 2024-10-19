@@ -13,16 +13,16 @@ function Projects() {
         <div className="row project-cards">
           <div className="col-md-3 text-center col-padding animate-box">
             <a
-              href="https://github.com/abhisheklandge77/find-my-pet-project"
+              href="https://github.com/PurushottamGandas/managementCRUD"
               target="_blank"
               rel="noreferrer"
               className="work project-1"
             >
               <div className="desc">
-                <h3>Find My Pet</h3>
+                <h3>Student Management</h3>
                 <span>
                   <a
-                    href="https://github.com/abhisheklandge77/find-my-pet-project"
+                    href="https://github.com/PurushottamGandas/managementCRUD"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -34,7 +34,7 @@ function Projects() {
           </div>
           <div className="col-md-3 text-center col-padding animate-box">
             <a
-              href="https://github.com/abhisheklandge77/clothing-store-angular-app"
+              href="https://github.com/PurushottamGandas/product-table"
               target="_blank"
               rel="noreferrer"
               className="work project-2"
@@ -43,28 +43,7 @@ function Projects() {
                 <h3>Clothing Store</h3>
                 <span>
                   <a
-                    href="https://github.com/abhisheklandge77/clothing-store-angular-app"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Angular Project
-                  </a>
-                </span>
-              </div>
-            </a>
-          </div>
-          <div className="col-md-3 text-center col-padding animate-box">
-            <a
-              href="https://github.com/abhisheklandge77/movie-heist-app"
-              className="work project-3"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <div className="desc">
-                <h3>Movie Heist</h3>
-                <span>
-                  <a
-                    href="https://github.com/abhisheklandge77/movie-heist-app"
+                    href="https://github.com/PurushottamGandas/product-table"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -76,20 +55,20 @@ function Projects() {
           </div>
           <div className="col-md-3 text-center col-padding animate-box">
             <a
-              href="https://github.com/abhisheklandge77/Live-Chat-App-Front-End"
-              className="work project-4"
+              href="https://github.com/PurushottamGandas/Python-Data-Associate"
+              className="work project-3"
               target="_blank"
               rel="noreferrer"
             >
               <div className="desc">
-                <h3>Live Chat</h3>
+                <h3>Movie Heist</h3>
                 <span>
                   <a
-                    href="https://github.com/abhisheklandge77/Live-Chat-App-Front-End"
+                    href="https://github.com/PurushottamGandas/Python-Data-Associate"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    ReactJS + Socket Project
+                    Python Project
                   </a>
                 </span>
               </div>
