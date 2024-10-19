@@ -61,7 +61,7 @@ function Projects() {
               rel="noreferrer"
             >
               <div className="desc">
-                <h3>Movie Heist</h3>
+                <h3>Travle Data Insights</h3>
                 <span>
                   <a
                     href="https://github.com/PurushottamGandas/Python-Data-Associate"
