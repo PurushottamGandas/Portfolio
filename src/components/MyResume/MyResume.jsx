@@ -74,7 +74,7 @@ function MyResume() {
                   <div className="timeline-heading">
                     <h3 className="timeline-title">Masters Degree (MSc-CA)</h3>
                     <span className="company">
-                      Haribhai V. Desai College (SPPU) - 2022 - current
+                      Haribhai V. Desai College (SPPU) - 2022 - 2024
                     </span>
                   </div>
                   <div className="timeline-body">
