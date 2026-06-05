@@ -2,7 +2,7 @@
   "name": "purushottam-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Purushottam02.github.io/Portfolio",
+  "homepage": "https://PurushottamGandas.github.io/Portfolio",
   "type": "module",
   "scripts": {
     "resume": "node scripts/generateResume.js",
